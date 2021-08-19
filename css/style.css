@@ -62,6 +62,9 @@ div h2 {
   color: #6CA9AA;
   padding-top: 10px; }
 
+p {
+  font-size: 20px; }
+
 .profile-area {
   padding: 80px 0; }
 
@@ -109,6 +112,19 @@ div h2 {
 .img__productos {
   max-height: 100px;
   max-width: 100px; }
+
+.caja-text {
+  width: 50%;
+  border-radius: 10px;
+  background-color: #6CA9AA;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold; }
+
+.productos-text {
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold; }
 
 .index__titulos {
   color: black;
